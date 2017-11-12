@@ -1,0 +1,25 @@
+{
+  "name": "Glory_Hole",
+  "version": "1.0.0",
+  "description": "The Glory Hole: I came up with an idea based on the center hole on all Krux Trucks being a window into the weird. This is a interactive web/video piece that would support the Truck's marketing campaign.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress"
+  },
+  "author": "JesseJessee",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.17",
+    "css-loader": "^0.14.5",
+    "extract-loader": "^1.0.1",
+    "extract-text-webpack-plugin": "^2.0.0-rc.3",
+    "html-webpack-plugin": "^2.30.1",
+    "node-sass": "^4.0.0",
+    "sass-loader": "^5.0.0",
+    "style-loader": "^0.13.1",
+    "vue": "^2.5.3",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.9.4"
+  },
+  "dependencies": {}
+}
