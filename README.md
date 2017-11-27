@@ -41,7 +41,7 @@ Installing Gloryhole is pretty basic (thank you webpack). Check out the steps be
 Clone the project
 
 ```
-git clone
+git clone https://github.com/jessejessee/gloryhole.git
 ```
 
 Navigate to to project via command line
